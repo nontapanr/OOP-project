@@ -1,0 +1,4768 @@
+
+Afghanistan
+
+15
+
+Rashid Arman
+
+21 
+
+725 
+
+WicketKeeper
+
+Muhammad Nabi
+
+35  
+
+600 
+
+Slip
+
+Asghar Afghan 
+
+32 
+
+580 
+
+Gully
+
+Mujeeb UrRahman 
+
+19 
+
+800
+
+Point
+
+Hazratullah Zazai 
+
+22
+
+750 
+
+Cover
+
+Gulbadin Naib 
+
+29 
+
+652
+
+Mid-off
+
+Najibullah Zadran 
+
+27 
+
+498
+
+Bowler
+
+Rahmat Zurmatai 
+
+26 
+
+499
+
+Mid-on
+
+Samiullah Shenwari 
+
+32 
+
+495
+
+Mid-wicket
+
+Hashmatullah Shahidi 
+
+25 
+
+725
+
+Fine-leg
+
+Dawlat Zadran 
+
+32
+
+394
+
+Third man
+
+Hamid Hassan
+
+32
+
+725
+
+Wicketkeeper
+
+Ikram Alikhil
+
+19
+
+632
+
+Slip
+
+Noor Ali
+
+31
+
+658
+
+Gully
+
+Sayed Shirzad
+
+25
+
+487
+
+Point
+
+Australia
+
+17
+
+Steven Smith 
+
+30 
+
+552
+
+Wicketkeeper
+
+David Warner 
+
+33 
+
+710
+
+Slip
+
+Aaron Finch 
+
+33 
+
+822
+
+Gully
+
+Mitchell Starc 
+
+30
+
+465
+
+Point
+
+Patrick Cummins 
+
+26
+
+687
+
+Cover
+
+Travis Head
+ 
+26
+
+379
+
+Mid-off
+
+Nathan Lyon
+
+32
+
+579
+
+Bowler
+
+Adam Zampa
+
+28
+
+705
+
+Mid-on
+
+Matthew Wade
+
+32
+
+602
+
+Mid-wicket
+
+Marcus Stoinis
+
+30
+
+391
+
+Fine leg
+
+Ashton Agar
+
+26
+
+431
+
+Third man
+
+Kane William
+
+29
+
+741
+
+Wicketkeeper
+
+Alex Tyson
+
+28
+
+456
+
+Slip
+
+Peter Handscomb
+
+28
+
+632
+
+Gully
+
+Nathan Mitchell
+
+32
+
+647
+
+Point
+
+Jason Behrend
+
+29
+
+587
+
+Cover
+
+Jackson Munro
+
+33
+
+728
+
+Mid-off
+
+Bangladesh 
+
+23
+
+Shakib Hasan
+
+33
+
+801
+
+Wicketkeeper
+
+Tamim Khan
+
+31
+
+811
+
+Slip
+
+Mushfiqur Rahim
+
+32
+
+613
+
+Gully
+
+Liton Das
+
+25
+
+709
+
+Point
+
+Mashrafe Mortaza
+
+36
+
+862
+
+Cover
+
+Mustafizur Rahman
+
+24
+
+670
+
+Mid-off
+
+Soumya Sarkar
+
+27
+
+301
+
+Bowler
+
+Mahmudullah Riyad
+
+34
+
+482
+
+Mid-on
+
+Mehidy Hasan
+
+22
+
+320
+
+Mid-wicket
+
+Rubel Hossain
+
+30
+
+325
+
+Fine leg
+
+Sabbir Rahman
+
+28
+
+369
+
+Third man
+
+Mohammad Naim
+
+20
+
+587
+
+Wicketkeeper
+
+Saif Hassan
+
+21
+
+587
+
+Slip
+
+Mohammad Mithun
+
+29
+
+810
+
+Gully
+
+Afif Hossain
+
+20
+
+765
+
+Point
+
+Nayeem Hasan
+
+19
+
+741
+
+Cover
+
+Mohammad Saifuddin
+
+23
+
+498
+
+Mid-off
+
+Shafiul Islam
+
+30
+
+541
+
+Bowler
+
+AlAmin Hossain
+
+30
+
+809
+
+Mid-on
+
+Najmul Hossain
+
+21
+
+471
+
+Mid-wicket
+
+Taskin Ahmed
+
+25
+
+687
+
+Fine leg
+
+Mosaddek Hossain
+
+24
+
+651
+
+Third man
+
+Abu Jayed
+
+26
+
+474
+
+Wicketkeeper
+
+Brazil 
+
+15
+
+Rishad B
+
+30
+
+599
+
+Wicketkeeper
+
+Muhammad Saleem
+
+26
+
+758
+
+Slip
+
+Luis Rodrigues
+
+32
+
+654
+
+Gully
+
+Yasar Haroon
+
+29
+
+754
+
+Point
+
+Christopher Johnson
+
+28
+
+437
+
+Cover
+
+Daniel Miziara
+
+32
+
+428
+
+Mid-off
+
+Greigor Caisley
+
+26
+
+299
+
+Bowler
+
+Viki Chaudhry
+
+24
+
+235
+
+Mid-on
+
+Rudy Hartmann
+
+30
+
+674
+
+Mid-wicket
+
+Ian Webster
+
+28
+
+483
+
+Fine leg
+
+Vincent Bastick
+
+26
+
+817
+
+Third man
+
+Guilherme Lefvre
+
+27
+
+804
+
+Wicketkeeper
+
+Henrique Dolabella
+
+30
+
+622
+
+Slip
+
+Sunny Randolph
+
+28
+
+647
+
+Gully
+
+Alexandre Miziara
+
+22
+
+254
+
+Point
+
+Canada
+
+22 
+
+Davy Jacobs
+
+37
+
+265
+
+Wicketkeeper
+
+Bhavindu Adhihetty
+
+20
+
+825
+
+Slip
+
+Saad Bin Zafar
+
+33
+
+819
+
+Gully
+
+Navneet Dhaliwal
+
+31
+
+489
+
+Point
+
+Nikhil Dutta
+
+25
+
+431
+
+Cover
+
+Romesh Eranga
+
+34
+
+805
+
+Mid-off
+
+Ruvindu Gunasekera
+
+28
+
+603
+
+Bowler
+
+Dillon Heyliger
+
+30
+
+682
+
+Mid-on
+
+Nitish Kumar
+
+25
+
+788
+
+Mid-wicket
+
+Hiral Patel
+
+28
+
+437
+
+Fine leg
+
+Cecil Pervez
+
+35
+
+511
+
+Third man
+
+Rizwan Ahmed
+
+41
+
+725
+
+Wicketkeeper
+
+Ravinderpal Singh
+
+31
+
+456
+
+Slip
+
+Harsh Thaker
+
+22
+
+715
+
+Gully
+
+Hamza Tariq
+
+29
+
+547
+
+Point
+
+Rodrigo Thomas
+
+29
+
+754
+
+Cover
+
+Junaid Siddiqui
+
+35
+
+547
+
+Mid-off
+
+Jeremy Gordon
+
+33
+
+547
+
+Bowler
+
+Shahid Ahmadzai
+
+31
+
+584
+
+Mid-on
+
+Srimantha Wijeratne
+
+30
+
+654
+
+Mid-wicket
+
+Cecil Mert
+
+35
+
+647
+
+Fine leg
+
+Arslan Khan
+
+20
+
+654
+
+Third man
+
+China 
+
+14
+
+Zhang Fei
+
+25
+
+755
+
+Wicketkeeper
+
+Jiang Shuyao
+
+28
+
+266
+
+Slip
+
+Lu Cangcang
+
+28
+
+341
+
+Gully
+
+Tian Suqing
+
+20
+
+446
+
+Point
+
+Wang Zihao
+
+14
+
+669
+
+Cover
+
+Ye Weiji
+
+21
+
+833
+
+Mid-off
+
+Zhang Peng
+
+30
+
+665
+
+Bowler
+
+Feng Yu
+
+18
+
+267
+
+Mid-on
+
+Jin Yonghao
+
+22
+
+366
+
+Mid-wicket
+
+Ke Tiansheng
+
+18
+
+279
+
+Fine leg
+
+Wang Qi
+
+20
+
+447
+
+Third man
+
+Yan Hua Wen
+
+17
+
+340
+
+Wicketkeeper
+
+Ge Yongsheng
+
+21
+
+478
+
+Slip
+
+Zhuang Zelin
+
+17
+
+654
+
+Gully
+
+Denmark 
+
+20
+
+Hamid Shah
+
+27
+
+364
+
+Wicketkeeper
+
+Wahab Hashmi
+
+22
+
+199
+
+Slip
+
+Taranjit Bharaj
+
+27
+
+659
+
+Gully
+
+Anique Uddin
+
+22
+
+732
+
+Point
+
+Nicolaj Damgaard
+
+23
+
+349
+
+Cover
+
+Oliver Damgaard Hald
+
+20
+
+378
+
+Mid-off
+
+Omar Hayatt
+
+36
+
+498
+
+Bowler
+
+Shangeev Thas
+
+21
+
+421
+
+Mid-on
+
+Jonas Henriksen
+
+19
+
+619
+
+Mid-wicket
+
+Jino Jojo
+
+33
+
+533
+
+Fine leg
+
+Rizwan Mahmood
+
+30
+
+483
+
+Third man
+
+Anders Bulow
+
+25
+
+471
+
+Wicketkeeper
+
+Anique Hewwy
+
+22
+
+541
+
+Slip
+
+Ihyas Saumy
+
+23
+
+654
+
+Gully
+
+Amjad Khan
+
+39
+
+856
+
+Point
+
+Thomas Hansen
+
+44
+
+540
+
+Cover
+
+Soren Henriksen
+
+55
+
+426
+
+Mid-off
+
+Frederik Klokker
+
+37
+
+424
+
+Bowler
+
+Johan Malcolm
+
+33
+
+283
+
+Mid-on
+
+Ole Mortensen
+
+62
+
+709
+
+Mid-wicket
+
+England 
+
+19
+
+Benjamin Stokes
+
+28
+
+728
+
+Fine leg
+
+Joseph Root 
+
+29
+
+659
+
+Third man
+
+Joseph Buttler 
+
+29
+
+294
+
+Wicketkeeper
+
+Eoin Joseph
+
+33
+
+339
+
+Slip
+
+Jofra Archer
+
+25
+
+362
+
+Gully
+
+Moeen Ali
+
+32
+
+326
+
+Point
+
+Jonathan Bairstow
+
+30
+
+306
+
+Cover
+
+Mark Wood
+
+30
+
+443
+
+Mid-off
+
+Jason Roy
+
+29
+
+129
+
+Bowler
+
+Chris Woakes
+
+31
+
+601
+
+Mid-on
+
+Thomas Banton
+
+21
+
+445
+
+Mid-wicket
+
+Adil Usman Rashid
+
+32
+
+587
+
+Fine leg
+
+Saqib Mahmood
+
+23
+
+802
+
+Third man
+
+Chris Jordan
+
+31
+
+223
+
+Wicketkeeper
+
+Tom Curran
+
+25
+
+198
+
+Slip
+
+Dawid Johannes Malan
+
+32
+
+725
+
+Gully
+
+Liam Edward Plunkett
+
+34
+
+487
+
+Point
+
+James Vince
+
+29
+
+547
+
+Cover
+
+Liam Dawson
+
+30
+
+541
+
+Mid-off
+
+Egypt 
+
+25
+
+Geoffrey MacLaren
+
+19
+
+819
+
+Bowler
+
+Richard More 
+
+20
+
+620
+
+Mid-on
+
+Geoffrey Rawson 
+
+21
+
+214
+
+Mid-wicket
+
+Basil Clarke 
+
+22
+
+322
+
+Fine leg
+
+James Leaf 
+
+23
+
+463
+
+Third man
+
+Philip Pank 
+
+24
+
+324
+
+Wicketkeeper
+
+Harold Hinde 
+
+25
+
+631
+
+Slip
+
+Arthur Turner 
+
+26
+
+626
+
+Gully
+
+Ronald Joy
+
+27
+
+315
+
+Point
+
+Thomas Sturgess 
+
+28
+
+431
+
+Cover
+
+Godfrey Firbank
+
+29
+
+216
+
+Mid-off
+
+Eric Cole
+
+30
+
+564
+
+Bowler
+
+Oswald Smith Bingham
+
+31
+
+541
+
+Mid-on
+
+Francis Rogers
+
+32
+
+478
+
+Mid-wicket
+
+Robert Osborne Smith
+
+33
+
+457
+
+Fine leg
+
+Robert Melsome
+
+34
+
+784
+
+Third man
+
+Rodney Palmer
+
+35
+
+475
+
+Wicketkeeper
+
+Alexander Wilkinson
+
+36
+
+574
+
+Slip
+
+Joshua Chaytor
+
+37
+
+745
+
+Gully
+
+Archibald Cassels
+
+38
+
+457
+
+Point
+
+Rowland Musson 
+
+39
+
+801
+
+Cover
+
+Grahame Cruickshanks 
+
+40
+
+654
+
+Mid-off
+
+Edward Cawston 
+
+41
+
+487
+
+Bowler
+
+Thomas Halsey 
+
+42
+
+654
+
+Mid-on
+
+Cyril Hamilton 
+
+43
+
+321
+
+Mid-wicket
+
+France 
+
+20
+
+Tim de Leede
+
+52
+
+654
+
+Fine leg
+
+Shabir Hussain
+
+54
+
+741
+
+Third man
+
+Usman Khan
+
+29
+
+354
+
+Wicketkeeper
+
+Arslan Khan
+
+34
+
+434
+
+Slip
+
+Zafar Iqbal
+
+36
+
+366
+
+Gully
+
+Chetan Chauhan
+
+36
+
+736
+
+Point
+
+Shahid Malik
+
+38
+
+548
+
+Cover
+
+Kismatullah Surate
+
+28
+
+364
+
+Mid-off
+
+Donald Mariathas
+
+29
+
+457
+
+Bowler
+
+Arun Ayyavooraju	
+
+33	
+
+546
+
+Mid-on
+
+Andy Walkden	
+
+24
+
+524
+
+Mid-wicket
+	
+Robin Murphy	
+
+28
+
+627
+
+Fine leg
+	
+Praneeth Jangili
+
+38
+
+434
+
+Third man
+		
+Deva Amirdalingame	
+
+30
+
+331
+
+Wicketkeeper
+	
+Atif Zahir	
+
+44	
+
+642
+
+Slip
+
+Waseem Bhatti	
+
+41	
+
+540
+
+Gully
+
+Lucien Calkin	
+
+22	
+
+210
+
+Point
+
+Chamara Rupaningal	
+
+41
+
+480
+
+Cover
+
+William Singh	
+
+31
+
+631
+
+Mid-off
+
+Komalan Thavalingam
+
+34
+
+633
+
+Bowler
+
+India
+
+16
+
+Kedar Mahadev Jadhav
+
+35
+
+417
+
+Mid-on
+
+Kuldeep Yadav
+
+25
+
+451
+
+Mid-wicket
+
+Ishant Sharma
+
+31
+
+584
+
+Fine leg
+
+Bhuvneshwar Kumar Singh
+
+30
+
+741
+
+Third man
+
+Dinesh Karthik
+
+34
+
+654
+
+Wicketkeeper
+
+Virat Kohli
+
+31
+
+427
+
+Slip
+
+MS Dhoni
+
+38
+
+437
+
+Gully
+
+KL Rahul
+
+27
+
+543
+
+Point
+
+Rishabh Pant
+
+22
+
+122
+
+Cover
+
+Jasprit Bumrah
+
+26
+
+368
+
+Mid-off
+
+Hardik Pandya
+
+26
+
+698
+
+Bowler
+
+Prithvi Shaw
+
+19
+
+349
+
+Mid-on
+
+Ravindrasinh Jadeja
+
+31
+
+268
+
+Mid-wicket
+
+Mohammed Shami
+
+29
+
+489
+
+Fine leg
+
+Mayank Agarwal
+
+29
+
+455
+
+Third man
+
+Yuzvendra Chahal
+
+29
+
+198
+
+Wicketkeeper
+
+Ireland 
+
+24
+
+Andrew Balbirnie	
+
+29		
+
+459
+
+Wicketkeeper
+
+James McCollum	
+
+24	
+
+364
+
+Slip
+
+William Porterfield	
+
+35		 
+
+457
+
+Gully
+
+Paul Stirling	
+
+29	
+
+257
+
+Point
+
+Harry Tector	
+
+20	
+
+154
+
+Cover
+
+Greg Thompson	
+
+32	
+
+247
+
+Mid-off
+
+Lorcan Tucker	
+
+23	
+
+323
+
+Bowler
+
+Gary Wilson	
+
+34	
+
+439
+
+Mid-on
+
+Mark Adair	
+
+24	
+
+444
+
+Mid-wicket
+
+Gareth Delany	
+
+22	
+
+655
+
+Fine leg
+
+Shane Getkate
+
+28
+
+428
+
+Third man
+
+Andy McBrine
+
+26
+
+457
+
+Wicketkeeper
+
+Kevin OBrien
+
+36
+
+436
+
+Slip
+
+Simi Singh
+
+33
+
+733
+
+Gully
+
+Stuart Thompson
+
+28
+
+768
+
+Point
+
+Peter Chase
+
+26
+
+741
+
+Cover
+
+David Delany
+
+22
+
+364
+
+Mid-off
+
+Tyrone Kane
+
+25
+
+749
+
+Bowler
+
+Joshua Little
+
+20
+
+654
+
+Mid-on
+
+Barry McCarthy
+
+27
+
+451
+
+Mid-wicket
+
+Boyd Rankin
+
+35
+
+241
+
+Fine leg
+
+Craig Young
+
+30
+
+830
+
+Third man
+
+James Cameron Dow
+
+29
+
+549
+
+Wicketkeeper
+
+George Dockrell
+
+27
+
+509
+
+Slip
+
+Italy 
+
+21
+
+Jaspreet Singh
+
+35
+
+453
+
+Wicketkeeper
+
+Nicholos Maiolo
+
+26
+
+741
+
+Slip
+
+Michael Ross
+
+32
+
+654
+
+Gully
+
+Alessandro Bonora
+
+41
+
+714
+
+Point
+
+Damian Crowley
+
+30
+
+459
+
+Cover
+
+Crishan Kalugamage
+
+42
+
+651
+
+Mid-off
+
+Supun Tharanga
+
+34
+
+706
+
+Bowler
+
+Peter Petricola
+
+36
+
+751
+
+Mid-on
+
+Carl Sandri
+
+36
+
+636
+
+Mid-wicket
+
+Charanjeet Singh
+
+26
+
+426
+
+Fine leg
+
+Gayashan Munasinghe
+
+33
+
+698
+
+Third man
+
+Madupa Fernando
+
+28
+
+728
+
+Wicketkeeper
+
+Rakibul Hasan
+
+31
+
+654
+
+Slip
+
+Fida Hussain
+
+31
+
+368
+
+Gully
+
+Gian-Piero Meade
+
+24
+
+314
+
+Point
+
+Joy Perera
+
+32
+
+751
+
+Cover
+
+Manpreet Singh
+
+33
+
+237
+
+Mid-off
+
+Anam Mollik
+
+30
+
+498
+
+Bowler
+
+Baljit Singh
+
+29
+
+487
+
+Mid-on
+
+Zahid Cheema
+
+29
+
+257
+
+Mid-wicket
+
+Tharindu Fernando
+
+32
+
+354
+
+Fine leg
+
+Japan 
+
+15
+
+Debashish Sahoo
+
+19
+
+210
+
+Wicketkeeper
+
+Reiji Suto
+
+18
+
+360
+
+Slip
+
+Kazumasa Takahashi
+
+19
+
+460
+
+Gully
+
+Ashley Thurgate
+
+19
+
+720
+
+Point
+
+Marcus Thurgate
+
+19
+
+111
+
+Cover
+
+Neel Date
+
+20
+
+468
+
+Mid-off
+
+Max Clements
+
+18
+
+354
+
+Bowler
+
+Tushar Chaturvedi
+
+22
+
+465
+
+Mid-on
+
+Kento Dobell
+
+23
+
+364
+
+Mid-wicket
+
+Ishaan Fartyal
+
+26
+
+269
+
+Fine leg
+
+Sora Ichiki
+
+26
+
+165
+
+Third man
+
+Leon Mehlig
+
+19
+
+687
+
+Wicketkeeper
+
+Masato Morita
+
+18
+
+467
+
+Slip
+
+Shu Noguchi
+
+20
+
+657
+
+Gully
+
+Yugandhar Retharekar
+
+22
+
+364
+
+Point
+
+Malaysia 
+
+15
+
+Abdul Rashid
+
+36
+
+411
+
+Wicketkeeper
+
+Shafiq Sharif
+
+30
+
+430
+
+Slip
+
+Pavandeep Singh
+
+22
+
+422
+
+Gully
+
+Virandeep Singh
+
+21
+
+421
+
+Point
+
+Ahmed Faiz 
+
+32
+
+257
+
+Cover
+
+Muhamad Syahadat 
+
+26
+
+421
+
+Mid-off
+
+Anwar Arudin
+
+35
+
+318
+
+Bowler
+
+Syed Aziz
+
+21
+
+619
+
+Mid-on
+
+Suharril Fetri
+
+30
+
+715
+
+Mid-wicket
+
+Ainool Haqqiem
+
+22
+
+618
+
+Fine leg
+
+Syazrul Idrus
+
+30
+
+654
+
+Third man
+
+Saifullah Malik
+
+29
+
+195
+
+Wicketkeeper
+
+Dhivendran Mogan
+
+24
+
+123
+
+Slip
+
+Sharvin Muniandy
+
+26
+
+654
+
+Gully
+
+Anwar Rahman
+
+23
+
+658
+
+Point
+
+Mexico 
+
+16
+
+Shahzad Muhammad
+
+26
+
+459
+
+Wicketkeeper
+
+Ashwin Sathya
+
+23
+
+711
+
+Slip
+
+Nithin Shetty
+
+32
+
+654
+
+Gully
+
+Jagdeesh Umanath
+
+38
+
+569
+
+Point
+
+Sanjay Zargar
+
+40
+
+669
+
+Cover
+
+Tarun Sharma
+
+26
+
+457
+
+Mid-off
+
+Kaushal Kumar
+
+30
+
+678
+
+Bowler
+
+Revanakumar Ankad
+
+22
+
+148
+
+Mid-on
+
+Puneet Arora
+
+24
+
+485
+
+Mid-wicket
+
+Buddhadeb Banerjee
+
+22
+
+368
+
+Fine leg
+
+Pradeep Chandran
+
+30
+
+385
+
+Third man
+
+Gaurav Dutta
+
+32
+
+658
+
+Wicketkeeper
+
+Luis Hermida
+
+22
+
+697
+
+Slip
+
+Shashikant Hirugade
+
+30
+
+358
+
+Gully
+
+Rama Inampud
+
+24
+
+367
+
+Point
+
+Shantanu Kaveri
+
+26
+
+451
+
+Cover
+
+New Zealand
+
+30
+
+Tim Seifert
+
+25
+
+425
+
+Wicketkeeper
+
+Bradley John Watling
+
+34
+
+344
+
+Slip
+
+Todd Astle
+
+33
+
+451
+
+Gully
+
+Colin de Grandhomme
+
+33
+
+457
+
+Point
+
+Daryl Mitchell
+
+28
+
+471
+
+Cover
+
+James Neesham
+
+29
+
+699
+
+Mid-off
+
+Mitchell Santner
+
+28
+
+411
+
+Bowler
+
+Ajaz Patel
+
+31
+
+425
+
+Mid-on
+
+Ish Sodhi
+
+27
+
+806
+
+Mid-wicket
+
+William Somerville
+
+35
+
+644
+
+Fine leg
+
+Hamish Bennett
+
+33
+
+477
+
+Third man
+
+Trent Boult
+
+30
+
+611
+
+Wicketkeeper
+
+Lachlan Ferguson
+
+28
+
+641
+
+Slip
+
+Matt Henry
+
+28
+
+614
+
+Gully
+
+Kyle Jamieson
+
+25
+
+711
+
+Point
+
+Scott Kuggeleijn
+
+28
+
+644
+
+Cover
+
+Tim Southee
+
+31
+
+154
+
+Mid-off
+
+Blair Tickner
+
+26
+
+789
+
+Bowler
+
+Neil Wagner
+
+34
+
+517
+
+Mid-on
+
+Tom Blundell
+
+29
+
+324
+
+Mid-wicket
+
+Martin Guptill
+
+33
+
+157
+
+Fine leg
+
+Colin Munro
+
+33
+
+458
+
+Third man
+
+Henry Nicholls
+
+28
+
+257
+
+Wicketkeeper
+
+Jeet Raval
+
+31
+
+487
+
+Slip
+
+Tom Bruce
+
+28
+
+325
+
+Gully
+
+Mark Chapman
+
+25
+
+189
+
+Point
+
+Glenn Phillips
+
+23
+
+436
+
+Cover
+
+Ross Taylor
+
+36
+
+364
+
+Mid-off
+
+Kane Williamson
+
+29
+
+455
+
+Bowler
+
+Tom Latham
+
+28
+
+556
+
+Mid-on
+
+Oman
+
+15
+
+Khurram Nawaz
+
+34
+
+522
+
+Wicketkeeper
+
+Jay Odedra
+
+30
+
+333
+
+Slip
+
+Badal Singh
+
+32
+
+714
+
+Gully
+
+Jatinder Singh
+
+31
+
+413
+
+Point
+
+Zeeshan Maqsood 
+
+32
+
+594
+
+Cover
+
+Khawar Ali 
+
+34
+
+574
+
+Mid-off
+
+Fayyaz Butt
+
+26
+
+532
+
+Bowler
+
+Sandeep Goud
+
+28
+
+432
+
+Mid-on
+
+Aqib Ilyas
+
+27
+
+325
+
+Mid-wicket
+
+Kaleemullah
+
+29
+
+589
+
+Fine leg
+
+Bilal Khan
+
+31
+
+805
+
+Third man
+
+Suraj Kumar
+
+31
+
+584
+
+Wicketkeeper
+
+Sufyan Mehmood
+
+28
+
+715
+
+Slip
+
+Moonamchery Michal
+
+36
+
+636
+
+Gully
+
+Mohammad Nadeem
+
+37
+
+494
+
+Point
+
+Pakistan
+
+40
+
+Asif Ali
+
+28
+
+718
+
+Wicketkeeper
+
+Umar Akmal
+
+29
+
+411
+
+Slip
+
+Shadab Khan
+
+21
+
+547
+
+Gully
+
+Imad Wasim
+
+31
+
+556
+
+Point
+
+Mohammad Hafeez
+
+26
+
+455
+
+Cover
+
+Iftikhar Ahmed
+
+29
+
+441
+
+Mid-off
+
+Shoaib Malik
+
+38
+
+641
+
+Bowler
+
+Faheem Ashraf
+
+26
+
+778
+
+Mid-on
+
+Mohammad Nawaz
+
+26
+
+844
+
+Mid-wicket
+
+Bilal Asif
+
+34
+
+446
+
+Fine leg
+
+Kashif Bhatti
+
+33
+
+433
+
+Third man
+
+Sarfaraz Ahmed
+
+32
+
+412
+
+Wicketkeeper
+
+Mohammad Rizwan
+
+27
+
+113
+
+Slip
+
+Shaheen Shah Afridi
+
+19
+
+180
+
+Gully
+
+Mohammad Abbas
+
+30
+
+664
+
+Point
+
+Wahab Riaz
+
+34
+
+641
+
+Cover
+
+Hasan Ali
+
+26
+
+541
+
+Mid-off
+
+Usman Shinwari
+
+25
+
+314
+
+Bowler
+
+Mohammad Amir
+
+27
+
+417
+
+Mid-on
+
+Musa Khan
+
+19
+
+169
+
+Mid-wicket
+
+Naseem Shah
+
+17
+
+177
+
+Fine leg
+
+Mohammad Hasnain
+
+19
+
+184
+
+Third man
+
+Imran Khan
+
+32
+
+541
+
+Wicketkeeper
+
+Rahat Ali
+
+31
+
+574
+
+Slip
+
+Rumman Raees
+
+28
+
+417
+
+Gully
+
+Junaid Khan
+
+30
+
+652
+
+Point
+
+Mohammad Irfan
+
+37
+
+801
+
+Cover
+
+Yasir Shah
+
+33
+
+369
+
+Mid-off
+
+Usman Qadir
+
+26
+
+771
+
+Bowler
+
+Azhar Ali
+
+35
+
+777
+
+Mid-on
+
+Asad Shafiq
+
+34
+
+467
+
+Mid-wicket
+
+Babar Azam
+
+25
+
+469
+
+Fine leg
+
+Imam Haq
+
+24
+
+587
+
+Third man
+
+Abid Ali
+
+32
+
+532
+
+Wicketkeeper
+
+Shan Masood
+
+30
+
+365
+
+Slip
+
+Fakhar Zaman
+
+29
+
+355
+
+Gully
+
+Haris Sohail
+
+31
+
+547
+
+Point
+
+Fawad Alam
+
+34
+
+598
+
+Cover
+
+Hussain Talat
+
+24
+
+532
+
+Mid-off
+
+Khushdil Shah
+
+25
+
+541
+
+Bowler
+
+Romania
+
+16
+
+Sivakumar Periyalwar
+
+26
+
+458
+
+Wicketkeeper
+
+Rajendra Pisal
+
+22
+
+356
+
+Slip
+
+Abdul Shakoor
+
+26
+
+254
+
+Gully
+
+Shantanu Vashisht
+
+32
+
+699
+
+Point
+
+Cosmin Zavoiu
+
+30
+
+541
+
+Cover
+
+Ramesh Satheesan
+
+26
+
+487
+
+Mid-off
+
+Peter Danci
+
+30
+
+430
+
+Bowler
+
+Pavel Florin
+
+31
+
+547
+
+Mid-on
+
+Laurentiu Gherasim
+
+24
+
+174
+
+Mid-wicket
+
+Imran Haider
+
+25
+
+354
+
+Fine leg
+
+Ijaz Hussain
+
+41
+
+547
+
+Third man
+
+Sadeeq Khan
+
+30
+
+658
+
+Wicketkeeper
+
+Rajesh Kumar
+
+31
+
+547
+
+Slip
+
+Gohar Manan
+
+32
+
+325
+
+Gully
+
+Dharmendra Manani
+
+26
+
+475
+
+Point
+
+Satwik Nadigotla
+
+29
+
+654
+
+Cover
+
+Scotland
+
+21
+
+Tom Sole
+
+23
+
+225
+
+Wicketkeeper
+
+Alasdair Evans
+
+31
+
+431
+
+Slip
+
+Safyaan Sharif
+
+28
+
+554
+
+Gully
+
+Adrian Neill
+
+26
+
+441
+
+Point
+
+Ruaidhri Smith
+
+25
+
+664
+
+Cover
+
+Brad Wheal
+
+25
+
+664
+
+Mid-off
+
+Stuart Whittingham
+
+26
+
+447
+
+Bowler
+
+Gavin Main
+
+25
+
+714
+
+Mid-on
+
+Hamza Tahir
+
+24
+
+805
+
+Mid-wicket
+
+Mark Watt
+
+23
+
+667
+
+Fine leg
+
+Kyle Coetzer
+
+35
+
+477
+
+Third man
+
+Ollie Hairs
+
+28
+
+654
+
+Wicketkeeper
+
+Michael Jones
+
+22
+
+571
+
+Slip
+
+Calum MacLeod
+
+31
+
+254
+
+Gully
+
+George Munsey
+
+27
+
+812
+
+Point
+
+Matthew Cross
+
+27
+
+836
+
+Cover
+
+Craig Wallace
+
+29
+
+418
+
+Mid-off
+
+Richie Berrington
+
+32
+
+651
+
+Bowler
+
+Dylan Budge
+
+24
+
+487
+
+Mid-on
+
+Josh Davey
+
+29
+
+364
+
+Mid-wicket
+
+Michael Leask
+
+29
+
+589
+
+Fine leg
+
+Singapore
+
+19
+
+Janak Prakash
+
+19
+
+488
+
+Wicketkeeper
+
+Sidhant Singh
+
+20
+
+621
+
+Slip
+
+Amjad Mahboob
+
+39
+
+745
+
+Gully
+
+Aryaman Sunil
+
+19
+
+447
+
+Point
+
+Aahan Gopinath Achar
+
+21
+
+764
+
+Cover
+
+Vinoth Baskaran
+
+29
+
+564
+
+Mid-off
+
+Anantha Krishna
+
+29
+
+447
+
+Bowler
+
+Selladore Vijayakumar
+
+40
+
+744
+
+Mid-on
+
+Surendran Chandramohan
+
+31
+
+567
+
+Mid-wicket
+
+Tim David
+
+24
+
+364
+
+Fine leg
+
+Aritra Dutta
+
+28
+
+465
+
+Third man
+
+Rezza Gaznavi
+
+27
+
+798
+
+Wicketkeeper
+
+Arjun Mutreja
+
+21
+
+125
+
+Slip
+
+Rohan Rangarajan
+
+20
+
+311
+
+Gully
+
+Manpreet Singh
+
+25
+
+347
+
+Point
+
+Chetan Suryawanshi
+
+35
+
+802
+
+Cover
+
+Avi Dixit
+
+20
+
+469
+
+Mid-off
+
+Anish Paraam
+
+29
+
+720
+
+Bowler
+
+Navin Param
+
+24
+
+364
+
+Mid-on
+
+Slovenia
+
+14
+
+Lalantha Karunatilake
+
+27
+
+445
+
+Wicketkeeper
+
+Simon Kaucic
+
+36
+
+725
+
+Slip
+
+Nejc Zupan
+
+26
+
+448
+
+Gully
+
+Mark Oman 
+
+26
+
+681
+
+Point
+
+Damir Alidzanovic
+
+30
+
+579
+
+Cover
+
+Urban Blaznik
+
+32
+
+146
+
+Mid-off
+
+Rok Bohinc
+
+35
+
+169
+
+Bowler
+
+Grega Bohinc
+
+24
+
+465
+
+Mid-on
+
+Domen Bohinc
+
+25
+
+369
+
+Mid-wicket
+
+Robert Crawford
+
+26
+
+465
+
+Fine leg
+
+Slavo Teinovic 
+
+35
+
+517
+
+Third man
+
+Brad Eve
+
+33
+
+472
+
+Wicketkeeper
+
+Tom Furness 
+
+32
+
+321
+
+Slip
+
+Egon Jakofcic
+
+34
+
+657
+
+Gully
+
+South Korea
+
+15
+
+Hwanhee Lee 
+
+19
+
+441
+
+Wicketkeeper
+
+Soochan Park 
+
+23
+
+366
+
+Slip
+
+Park Tae Kwan
+
+26
+
+389
+
+Gully
+
+Ilhwan Seo 
+
+32
+
+682
+
+Point
+
+Sung Dae Sik 
+
+24
+
+489
+
+Cover
+
+Kim Kyungsik
+
+36
+
+148
+
+Mid-off
+
+Hyobum An
+
+35
+
+658
+
+Bowler
+
+Suin Bang
+
+23
+
+541
+
+Mid-on
+
+Inho Cha
+
+25
+
+548
+
+Mid-wicket
+
+Sunghoon Cho
+
+26
+
+472
+
+Fine leg
+
+Jiwon Choi 
+
+36
+
+654
+
+Third man
+
+Youmin Jung
+
+32
+
+418
+
+Wicketkeeper
+
+Hongki Kim
+
+20
+
+548
+
+Slip
+
+Namheon Kim
+
+19
+
+574
+
+Gully
+
+Sangwook Lee
+
+26
+
+157
+
+Point
+
+Spain
+
+13
+
+Ravi Panchal
+
+26
+
+456
+
+Wicketkeeper
+
+Tom Vine
+
+30
+
+621
+
+Slip
+
+Christian Mills
+
+22
+
+471
+
+Gully
+
+Faran Afzal
+
+26
+
+571
+
+Point
+
+Awais Ahmed
+
+32
+
+471
+
+Cover
+
+Yasir Ali
+
+33
+
+654
+
+Mid-off
+
+Muhammad Asjed
+
+25
+
+142
+
+Bowler
+
+Hamza Dar
+
+26
+
+654
+
+Mid-on
+
+Zulqarnain Haider
+
+33
+
+642
+
+Mid-wicket
+
+Paul Hennessy
+
+34
+
+654
+
+Fine leg
+
+Kuldeep Lal
+
+35
+
+642
+
+Third man
+
+Vinod Kumar
+
+28
+
+642
+
+Wicketkeeper
+
+Atif Mehmood
+
+26
+
+457
+
+Slip
+
+Thailand
+
+14
+
+Mahsid Faheem
+
+27
+
+256
+
+Wicketkeeper
+
+Nopphon Senamontree
+
+28
+
+541
+
+Slip
+
+Vichanath Singh
+
+28
+
+469
+
+Gully
+
+Chanchai Pengkumta
+
+22
+
+642
+
+Point
+
+Ismail Sardar
+
+50
+
+457
+
+Cover
+
+Robert Raina
+
+35
+
+457
+
+Mid-off
+
+Phiriyapong Suanchuai
+
+17
+
+127
+
+Bowler
+
+Kamron Senamontree
+
+20
+
+572
+
+Mid-on
+
+Naveed Pathan
+
+37
+
+645
+
+Mid-wicket
+
+Sorawat Desungnoen
+
+17
+
+572
+
+Fine leg
+
+Henno Jordaan
+
+31
+
+124
+
+Third man
+
+Wanchana Uisuk
+
+28
+
+354
+
+Wicketkeeper
+
+Ziaul Hoque
+
+33
+
+257
+
+Slip
+
+Daniel Frederik
+
+37
+
+458
+
+Gully
+
+Turkey
+
+17
+
+Cengiz Akyuz
+
+25
+
+452
+
+Point
+
+Hasan Alta
+
+30
+
+804
+
+Cover
+
+Ahmet Dursak
+
+26
+
+654
+
+Mid-off
+
+Ishak Elec
+
+32
+
+542
+
+Bowler
+
+Osman Goker
+
+35
+
+254
+
+Mid-on
+
+Hasan Helva
+
+36
+
+125
+
+Mid-wicket
+
+Serdar Kansoy
+
+27
+
+541
+
+Fine leg
+
+Serkan Kizilkaya
+
+28
+
+342
+
+Third man
+
+Mehmet Koc
+
+26
+
+264
+
+Wicketkeeper
+
+Ali Kose
+
+28
+
+641
+
+Slip
+
+Mecit Ozturk
+
+26
+
+201
+
+Gully
+
+Mehmst Sert
+
+22
+
+456
+
+Point
+
+Tunahan Turan
+
+26
+
+499
+
+Cover
+
+Ali Turkmen
+
+36
+
+644
+
+Mid-off
+
+Ismet Turkmen
+
+30
+
+441
+
+Bowler
+
+Recep Ulutuna
+
+29
+
+369
+
+Mid-on
+
+Tunahan Ulutuna
+
+26
+
+289
+
+Mid-wicket
+
+USA
+
+15
+
+Timil Patel
+
+36
+
+836
+
+Fine leg
+
+Jasdeep Singh
+
+27
+
+599
+
+Third man
+
+Rusty Theron
+
+34
+
+783
+
+Wicketkeeper
+
+Hayden Walsh
+
+27
+
+456
+
+Slip
+
+Saurabh Netravalkar
+
+28
+
+741
+
+Gully
+
+Steven Taylor
+
+26
+
+254
+
+Point
+
+Karima Gore
+
+21
+
+698
+
+Cover
+
+Elmore Hutchinson
+
+37
+
+782
+
+Mid-off
+
+Aaron Jones
+
+25
+
+836
+
+Bowler
+
+Nosthush Kenjige
+
+29
+
+782
+
+Mid-on
+
+Jaskaran Malhotra
+
+30
+
+209
+
+Mid-wicket
+
+Xavier Marshall
+
+34
+
+654
+
+Fine leg
+
+Monank Patel
+
+26
+
+755
+
+Third man
+
+Nisarg Patel
+
+31
+
+788
+
+Wicketkeeper
+
+Sagar Patel
+
+22
+
+654
+
+Slip
+
+West Indies
+
+38
+
+Brandon King
+
+25
+
+456
+
+Gully
+
+Sunil Ambris
+
+27
+
+459
+
+Point
+
+Shamarh Brooks
+
+31
+
+599
+
+Cover
+
+Rovman Powell
+
+26
+
+489
+
+Mid-off
+
+Shimron Hetmyer
+
+23
+
+459
+
+Bowler
+
+Darren Bravo
+
+31
+
+820
+
+Mid-on
+
+Shane Dowrich
+
+28
+
+546
+
+Mid-wicket
+
+Jahmar Hamilton
+
+29
+
+486
+
+Fine leg
+
+Denesh Ramdin
+
+35
+
+478
+
+Third man
+
+Carlos Brathwaite
+
+31
+
+456
+
+Wicketkeeper
+
+Fabian Allen
+
+24
+
+612
+
+Slip
+
+Dwayne Bravo
+
+36
+
+268
+
+Gully
+
+Andre Russell
+
+31
+
+697
+
+Point
+
+Keemo Paul
+
+22
+
+458
+
+Cover
+
+Rahkeem Cornwall
+
+27
+
+569
+
+Mid-off
+
+Sherfane Rutherford
+
+21
+
+586
+
+Bowler
+
+Sheldon Cottrell
+
+30
+
+548
+
+Mid-on
+
+Shannon Gabriel
+
+31
+
+451
+
+Mid-wicket
+
+Alzarri Joseph
+
+23
+
+451
+
+Fine leg
+
+Romario Shepherd
+
+25
+
+486
+
+Third man
+
+Kemar Roach
+
+31
+
+569
+
+Wicketkeeper
+
+Oshane Thomas
+
+23
+
+458
+
+Slip
+
+Kesrick Williams
+
+30
+
+589
+
+Gully
+
+Hayden Walsh Jr
+
+27
+
+593
+
+Point
+
+Sunil Narine
+
+31
+
+488
+
+Cover
+
+Ashley Nurse
+
+31
+
+598
+
+Mid-off
+
+Khary Pierre
+
+28
+
+478
+
+Bowler
+
+Jomel Warrican
+
+27
+
+489
+
+Mid-on
+
+Jason Holder
+
+28
+
+258
+
+Mid-wicket
+
+Kieron Pollard
+
+32
+
+423
+
+Fine leg
+
+Roston Chase
+
+28
+
+654
+
+Third man
+
+Shai Hope
+
+26
+
+369
+
+Wicketkeeper
+
+Nicholas Pooran	
+
+24
+
+285
+
+Slip
+
+Kraigg Brathwaite
+
+27
+
+756
+
+Gully
+
+John Campbell
+
+26
+
+654
+
+Point
+
+Chris Gayle
+
+40
+
+285
+
+Cover
+
+Lendl Simmons
+
+35
+
+174
+
+Mid-off
+
+Evin Lewis
+
+28
+
+365
+
+Bowler
+
+Zambia
+
+17
+
+Yusuf Patel
+
+26
+
+489
+
+Mid-on
+
+CD Patel
+
+36
+
+805
+
+Mid-wicket
+
+Bimal Soni
+
+40
+
+755
+
+Fine leg
+
+Peter Stimpson
+
+32
+
+569
+
+Third man
+
+Jackie Ward
+
+30
+
+499
+
+Wicketkeeper
+
+Yunus Badat
+
+26
+
+589
+
+Slip
+
+Keith Arnold
+
+30
+
+158
+
+Gully
+
+Derek Bruorton
+
+32
+
+154
+
+Point
+
+Aubrey Dennis 
+
+26
+
+269
+
+Cover
+
+Chris English
+
+29
+
+368
+
+Mid-off
+
+Roger Henderson
+
+32
+
+458
+
+Bowler
+
+Wally Hitzeroth
+
+33
+
+698
+
+Mid-on
+
+Bernard Horton
+
+35
+
+465
+
+Mid-wicket
+
+Michael Lee
+
+26
+
+358
+
+Fine leg
+
+Hamish McLeod
+
+29
+
+465
+
+Third man
+
+Parbhu Nana
+
+23
+
+257
+
+Wicketkeeper
+
+Majid Pandor
+
+33
+
+574
+
+Slip

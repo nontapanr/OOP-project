@@ -1,0 +1,120 @@
+NewMatches: 1
+	Match: Canada vs Denmark 
+		Team: Canada
+			-----------------------------------------------------
+			Srimantha Wijeratne Age: 30 Rating: 654 Position: Mid-wicket
+			Arslan Khan Age: 20 Rating: 654 Position: Third man
+			Hamza Tariq Age: 29 Rating: 547 Position: Point
+			Ruvindu Gunasekera Age: 28 Rating: 603 Position: Bowler
+			Bhavindu Adhihetty Age: 20 Rating: 825 Position: Slip
+			Davy Jacobs Age: 37 Rating: 265 Position: Wicketkeeper
+			Rodrigo Thomas Age: 29 Rating: 754 Position: Cover
+			Shahid Ahmadzai Age: 31 Rating: 584 Position: Mid-on
+			Cecil Mert Age: 35 Rating: 647 Position: Fine leg
+			Saad Bin Zafar Age: 33 Rating: 819 Position: Gully
+			Junaid Siddiqui Age: 35 Rating: 547 Position: Mid-off
+			-----------------------------------------------------
+		Team: Denmark 
+			-----------------------------------------------------
+			Shangeev Thas Age: 21 Rating: 421 Position: Mid-on
+			Thomas Hansen Age: 44 Rating: 540 Position: Cover
+			Jonas Henriksen Age: 19 Rating: 619 Position: Mid-wicket
+			Anique Hewwy Age: 22 Rating: 541 Position: Slip
+			Frederik Klokker Age: 37 Rating: 424 Position: Bowler
+			Anique Uddin Age: 22 Rating: 732 Position: Point
+			Hamid Shah Age: 27 Rating: 364 Position: Wicketkeeper
+			Ihyas Saumy Age: 23 Rating: 654 Position: Gully
+			Oliver Damgaard Hald Age: 20 Rating: 378 Position: Mid-off
+			Rizwan Mahmood Age: 30 Rating: 483 Position: Third man
+			Jino Jojo Age: 33 Rating: 533 Position: Fine leg
+			-----------------------------------------------------
+
+Report: 3
+	MatchDetail: France  win
+		Team: France 
+			-----------------------------------------------------
+			Arslan Khan Age: 34 Rating: 434 Position: Slip
+			Usman Khan Age: 29 Rating: 354 Position: Wicketkeeper
+			Lucien Calkin	 Age: 22 Rating: 212 Position: Point
+			Donald Mariathas Age: 29 Rating: 460 Position: Bowler
+			Zafar Iqbal Age: 36 Rating: 366 Position: Gully
+			Shahid Malik Age: 38 Rating: 548 Position: Cover
+			Robin Murphy	 Age: 28 Rating: 637 Position: Fine leg
+			Andy Walkden	 Age: 24 Rating: 528 Position: Mid-wicket
+			Kismatullah Surate Age: 28 Rating: 364 Position: Mid-off
+			Praneeth Jangili Age: 38 Rating: 434 Position: Third man
+			Arun Ayyavooraju	 Age: 33 Rating: 547 Position: Mid-on
+			-----------------------------------------------------
+		Team: Romania
+			-----------------------------------------------------
+			Laurentiu Gherasim Age: 24 Rating: 174 Position: Mid-wicket
+			Satwik Nadigotla Age: 29 Rating: 654 Position: Cover
+			Ijaz Hussain Age: 41 Rating: 547 Position: Third man
+			Pavel Florin Age: 31 Rating: 546 Position: Mid-on
+			Gohar Manan Age: 32 Rating: 325 Position: Gully
+			Rajesh Kumar Age: 31 Rating: 547 Position: Slip
+			Sivakumar Periyalwar Age: 26 Rating: 456 Position: Wicketkeeper
+			Ramesh Satheesan Age: 26 Rating: 488 Position: Mid-off
+			Imran Haider Age: 25 Rating: 350 Position: Fine leg
+			Peter Danci Age: 30 Rating: 430 Position: Bowler
+			Dharmendra Manani Age: 26 Rating: 475 Position: Point
+			-----------------------------------------------------
+	MatchDetail: Bangladesh  win
+		Team: Romania
+			-----------------------------------------------------
+			Ijaz Hussain Age: 41 Rating: 548 Position: Third man
+			Satwik Nadigotla Age: 29 Rating: 654 Position: Cover
+			Rajendra Pisal Age: 22 Rating: 358 Position: Slip
+			Pavel Florin Age: 31 Rating: 542 Position: Mid-on
+			Abdul Shakoor Age: 26 Rating: 254 Position: Gully
+			Ramesh Satheesan Age: 26 Rating: 485 Position: Mid-off
+			Imran Haider Age: 25 Rating: 351 Position: Fine leg
+			Dharmendra Manani Age: 26 Rating: 474 Position: Point
+			Laurentiu Gherasim Age: 24 Rating: 174 Position: Mid-wicket
+			Sivakumar Periyalwar Age: 26 Rating: 458 Position: Wicketkeeper
+			Peter Danci Age: 30 Rating: 428 Position: Bowler
+			-----------------------------------------------------
+		Team: Bangladesh 
+			-----------------------------------------------------
+			Taskin Ahmed Age: 25 Rating: 691 Position: Fine leg
+			Liton Das Age: 25 Rating: 710 Position: Point
+			Saif Hassan Age: 21 Rating: 587 Position: Slip
+			Mustafizur Rahman Age: 24 Rating: 675 Position: Mid-off
+			Mohammad Mithun Age: 29 Rating: 813 Position: Gully
+			Mahmudullah Riyad Age: 34 Rating: 482 Position: Mid-on
+			Sabbir Rahman Age: 28 Rating: 370 Position: Third man
+			Soumya Sarkar Age: 27 Rating: 301 Position: Bowler
+			Shakib Hasan Age: 33 Rating: 803 Position: Wicketkeeper
+			Najmul Hossain Age: 21 Rating: 471 Position: Mid-wicket
+			Nayeem Hasan Age: 19 Rating: 742 Position: Cover
+			-----------------------------------------------------
+	MatchDetail: India win
+		Team: Japan 
+			-----------------------------------------------------
+			Tushar Chaturvedi Age: 22 Rating: 465 Position: Mid-on
+			Masato Morita Age: 18 Rating: 467 Position: Slip
+			Sora Ichiki Age: 26 Rating: 165 Position: Third man
+			Debashish Sahoo Age: 19 Rating: 205 Position: Wicketkeeper
+			Ishaan Fartyal Age: 26 Rating: 269 Position: Fine leg
+			Ashley Thurgate Age: 19 Rating: 720 Position: Point
+			Marcus Thurgate Age: 19 Rating: 111 Position: Cover
+			Max Clements Age: 18 Rating: 351 Position: Bowler
+			Shu Noguchi Age: 20 Rating: 656 Position: Gully
+			Kento Dobell Age: 23 Rating: 364 Position: Mid-wicket
+			Neel Date Age: 20 Rating: 470 Position: Mid-off
+			-----------------------------------------------------
+		Team: India
+			-----------------------------------------------------
+			Jasprit Bumrah Age: 26 Rating: 368 Position: Mid-off
+			Hardik Pandya Age: 26 Rating: 700 Position: Bowler
+			Yuzvendra Chahal Age: 29 Rating: 198 Position: Wicketkeeper
+			Ishant Sharma Age: 31 Rating: 588 Position: Fine leg
+			Kuldeep Yadav Age: 25 Rating: 453 Position: Mid-wicket
+			Bhuvneshwar Kumar Singh Age: 30 Rating: 748 Position: Third man
+			Prithvi Shaw Age: 19 Rating: 349 Position: Mid-on
+			Rishabh Pant Age: 22 Rating: 126 Position: Cover
+			Virat Kohli Age: 31 Rating: 427 Position: Slip
+			MS Dhoni Age: 38 Rating: 439 Position: Gully
+			KL Rahul Age: 27 Rating: 543 Position: Point
+			-----------------------------------------------------
+

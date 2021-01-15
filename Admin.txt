@@ -1,0 +1,3636 @@
+Country: Afghanistan
+Weight Matches: 0
+Point: 0
+Rating: 614
+	-------------------------
+	Name: Asghar Afghan 
+	Age: 32
+	Rating: 580
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Dawlat Zadran 
+	Age: 32
+	Rating: 394
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Gulbadin Naib 
+	Age: 29
+	Rating: 652
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Hamid Hassan
+	Age: 32
+	Rating: 725
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Hashmatullah Shahidi 
+	Age: 25
+	Rating: 725
+	Position: Fine-leg
+	-------------------------
+	-------------------------
+	Name: Hazratullah Zazai 
+	Age: 22
+	Rating: 750
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Ikram Alikhil
+	Age: 19
+	Rating: 632
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Muhammad Nabi
+	Age: 35
+	Rating: 600
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Mujeeb UrRahman 
+	Age: 19
+	Rating: 800
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Najibullah Zadran 
+	Age: 27
+	Rating: 498
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Noor Ali
+	Age: 31
+	Rating: 658
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Rahmat Zurmatai 
+	Age: 26
+	Rating: 499
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Rashid Arman
+	Age: 21
+	Rating: 725
+	Position: WicketKeeper
+	-------------------------
+	-------------------------
+	Name: Samiullah Shenwari 
+	Age: 32
+	Rating: 495
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Sayed Shirzad
+	Age: 25
+	Rating: 487
+	Position: Point
+	-------------------------
+
+Country: Australia
+Weight Matches: 0
+Point: 0
+Rating: 594
+	-------------------------
+	Name: Aaron Finch 
+	Age: 33
+	Rating: 822
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Adam Zampa
+	Age: 28
+	Rating: 705
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Alex Tyson
+	Age: 28
+	Rating: 456
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Ashton Agar
+	Age: 26
+	Rating: 431
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: David Warner 
+	Age: 33
+	Rating: 710
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Jackson Munro
+	Age: 33
+	Rating: 728
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Jason Behrend
+	Age: 29
+	Rating: 587
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Kane William
+	Age: 29
+	Rating: 741
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Marcus Stoinis
+	Age: 30
+	Rating: 391
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Matthew Wade
+	Age: 32
+	Rating: 602
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Mitchell Starc 
+	Age: 30
+	Rating: 465
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Nathan Lyon
+	Age: 32
+	Rating: 579
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Nathan Mitchell
+	Age: 32
+	Rating: 647
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Patrick Cummins 
+	Age: 26
+	Rating: 687
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Peter Handscomb
+	Age: 28
+	Rating: 632
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Steven Smith 
+	Age: 30
+	Rating: 552
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Travis Head
+	Age: 26
+	Rating: 379
+	Position: Mid-off
+	-------------------------
+
+Country: Bangladesh 
+Weight Matches: 1
+Point: 614
+Rating: 614
+	-------------------------
+	Name: Abu Jayed
+	Age: 26
+	Rating: 474
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Afif Hossain
+	Age: 20
+	Rating: 765
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: AlAmin Hossain
+	Age: 30
+	Rating: 809
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Liton Das
+	Age: 25
+	Rating: 710
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Mahmudullah Riyad
+	Age: 34
+	Rating: 482
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Mashrafe Mortaza
+	Age: 36
+	Rating: 862
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Mehidy Hasan
+	Age: 22
+	Rating: 320
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Mohammad Mithun
+	Age: 29
+	Rating: 813
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Mohammad Naim
+	Age: 20
+	Rating: 587
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Mohammad Saifuddin
+	Age: 23
+	Rating: 498
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Mosaddek Hossain
+	Age: 24
+	Rating: 651
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Mushfiqur Rahim
+	Age: 32
+	Rating: 613
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Mustafizur Rahman
+	Age: 24
+	Rating: 675
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Najmul Hossain
+	Age: 21
+	Rating: 471
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Nayeem Hasan
+	Age: 19
+	Rating: 742
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Rubel Hossain
+	Age: 30
+	Rating: 325
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Sabbir Rahman
+	Age: 28
+	Rating: 370
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Saif Hassan
+	Age: 21
+	Rating: 587
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Shafiul Islam
+	Age: 30
+	Rating: 541
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Shakib Hasan
+	Age: 33
+	Rating: 803
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Soumya Sarkar
+	Age: 27
+	Rating: 301
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Tamim Khan
+	Age: 31
+	Rating: 811
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Taskin Ahmed
+	Age: 25
+	Rating: 691
+	Position: Fine leg
+	-------------------------
+
+Country: Brazil 
+Weight Matches: 0
+Point: 0
+Rating: 564
+	-------------------------
+	Name: Alexandre Miziara
+	Age: 22
+	Rating: 254
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Christopher Johnson
+	Age: 28
+	Rating: 437
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Daniel Miziara
+	Age: 32
+	Rating: 428
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Greigor Caisley
+	Age: 26
+	Rating: 299
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Guilherme Lefvre
+	Age: 27
+	Rating: 804
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Henrique Dolabella
+	Age: 30
+	Rating: 622
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Ian Webster
+	Age: 28
+	Rating: 483
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Luis Rodrigues
+	Age: 32
+	Rating: 654
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Muhammad Saleem
+	Age: 26
+	Rating: 758
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Rishad B
+	Age: 30
+	Rating: 599
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Rudy Hartmann
+	Age: 30
+	Rating: 674
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Sunny Randolph
+	Age: 28
+	Rating: 647
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Viki Chaudhry
+	Age: 24
+	Rating: 235
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Vincent Bastick
+	Age: 26
+	Rating: 817
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Yasar Haroon
+	Age: 29
+	Rating: 754
+	Position: Point
+	-------------------------
+
+Country: Canada
+Weight Matches: 0
+Point: 0
+Rating: 612
+	-------------------------
+	Name: Arslan Khan
+	Age: 20
+	Rating: 654
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Bhavindu Adhihetty
+	Age: 20
+	Rating: 825
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Cecil Mert
+	Age: 35
+	Rating: 647
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Cecil Pervez
+	Age: 35
+	Rating: 511
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Davy Jacobs
+	Age: 37
+	Rating: 265
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Dillon Heyliger
+	Age: 30
+	Rating: 682
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Hamza Tariq
+	Age: 29
+	Rating: 547
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Harsh Thaker
+	Age: 22
+	Rating: 715
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Hiral Patel
+	Age: 28
+	Rating: 437
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Jeremy Gordon
+	Age: 33
+	Rating: 547
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Junaid Siddiqui
+	Age: 35
+	Rating: 547
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Navneet Dhaliwal
+	Age: 31
+	Rating: 489
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Nikhil Dutta
+	Age: 25
+	Rating: 431
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Nitish Kumar
+	Age: 25
+	Rating: 788
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Ravinderpal Singh
+	Age: 31
+	Rating: 456
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Rizwan Ahmed
+	Age: 41
+	Rating: 725
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Rodrigo Thomas
+	Age: 29
+	Rating: 754
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Romesh Eranga
+	Age: 34
+	Rating: 805
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Ruvindu Gunasekera
+	Age: 28
+	Rating: 603
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Saad Bin Zafar
+	Age: 33
+	Rating: 819
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Shahid Ahmadzai
+	Age: 31
+	Rating: 584
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Srimantha Wijeratne
+	Age: 30
+	Rating: 654
+	Position: Mid-wicket
+	-------------------------
+
+Country: China 
+Weight Matches: 0
+Point: 0
+Rating: 486
+	-------------------------
+	Name: Feng Yu
+	Age: 18
+	Rating: 267
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Ge Yongsheng
+	Age: 21
+	Rating: 478
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Jiang Shuyao
+	Age: 28
+	Rating: 266
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Jin Yonghao
+	Age: 22
+	Rating: 366
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Ke Tiansheng
+	Age: 18
+	Rating: 279
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Lu Cangcang
+	Age: 28
+	Rating: 341
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Tian Suqing
+	Age: 20
+	Rating: 446
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Wang Qi
+	Age: 20
+	Rating: 447
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Wang Zihao
+	Age: 14
+	Rating: 669
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Yan Hua Wen
+	Age: 17
+	Rating: 340
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ye Weiji
+	Age: 21
+	Rating: 833
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Zhang Fei
+	Age: 25
+	Rating: 755
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Zhang Peng
+	Age: 30
+	Rating: 665
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Zhuang Zelin
+	Age: 17
+	Rating: 654
+	Position: Gully
+	-------------------------
+
+Country: Denmark 
+Weight Matches: 0
+Point: 0
+Rating: 506
+	-------------------------
+	Name: Amjad Khan
+	Age: 39
+	Rating: 856
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Anders Bulow
+	Age: 25
+	Rating: 471
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Anique Hewwy
+	Age: 22
+	Rating: 541
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Anique Uddin
+	Age: 22
+	Rating: 732
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Frederik Klokker
+	Age: 37
+	Rating: 424
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Hamid Shah
+	Age: 27
+	Rating: 364
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ihyas Saumy
+	Age: 23
+	Rating: 654
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Jino Jojo
+	Age: 33
+	Rating: 533
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Johan Malcolm
+	Age: 33
+	Rating: 283
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Jonas Henriksen
+	Age: 19
+	Rating: 619
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Nicolaj Damgaard
+	Age: 23
+	Rating: 349
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Ole Mortensen
+	Age: 62
+	Rating: 709
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Oliver Damgaard Hald
+	Age: 20
+	Rating: 378
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Omar Hayatt
+	Age: 36
+	Rating: 498
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Rizwan Mahmood
+	Age: 30
+	Rating: 483
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Shangeev Thas
+	Age: 21
+	Rating: 421
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Soren Henriksen
+	Age: 55
+	Rating: 426
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Taranjit Bharaj
+	Age: 27
+	Rating: 659
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Thomas Hansen
+	Age: 44
+	Rating: 540
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Wahab Hashmi
+	Age: 22
+	Rating: 199
+	Position: Slip
+	-------------------------
+
+Country: Egypt 
+Weight Matches: 0
+Point: 0
+Rating: 518
+	-------------------------
+	Name: Alexander Wilkinson
+	Age: 36
+	Rating: 574
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Archibald Cassels
+	Age: 38
+	Rating: 457
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Arthur Turner 
+	Age: 26
+	Rating: 626
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Basil Clarke 
+	Age: 22
+	Rating: 322
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Cyril Hamilton 
+	Age: 43
+	Rating: 321
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Edward Cawston 
+	Age: 41
+	Rating: 487
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Eric Cole
+	Age: 30
+	Rating: 564
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Francis Rogers
+	Age: 32
+	Rating: 478
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Geoffrey MacLaren
+	Age: 19
+	Rating: 819
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Geoffrey Rawson 
+	Age: 21
+	Rating: 214
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Godfrey Firbank
+	Age: 29
+	Rating: 216
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Grahame Cruickshanks 
+	Age: 40
+	Rating: 654
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Harold Hinde 
+	Age: 25
+	Rating: 631
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: James Leaf 
+	Age: 23
+	Rating: 463
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Joshua Chaytor
+	Age: 37
+	Rating: 745
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Oswald Smith Bingham
+	Age: 31
+	Rating: 541
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Philip Pank 
+	Age: 24
+	Rating: 324
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Richard More 
+	Age: 20
+	Rating: 620
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Robert Melsome
+	Age: 34
+	Rating: 784
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Robert Osborne Smith
+	Age: 33
+	Rating: 457
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Rodney Palmer
+	Age: 35
+	Rating: 475
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ronald Joy
+	Age: 27
+	Rating: 315
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Rowland Musson 
+	Age: 39
+	Rating: 801
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Thomas Halsey 
+	Age: 42
+	Rating: 654
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Thomas Sturgess 
+	Age: 28
+	Rating: 431
+	Position: Cover
+	-------------------------
+
+Country: England 
+Weight Matches: 0
+Point: 0
+Rating: 460
+	-------------------------
+	Name: Adil Usman Rashid
+	Age: 32
+	Rating: 587
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Benjamin Stokes
+	Age: 28
+	Rating: 728
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Chris Jordan
+	Age: 31
+	Rating: 223
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Chris Woakes
+	Age: 31
+	Rating: 601
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Dawid Johannes Malan
+	Age: 32
+	Rating: 725
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Eoin Joseph
+	Age: 33
+	Rating: 339
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: James Vince
+	Age: 29
+	Rating: 547
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Jason Roy
+	Age: 29
+	Rating: 129
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Jofra Archer
+	Age: 25
+	Rating: 362
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Jonathan Bairstow
+	Age: 30
+	Rating: 306
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Joseph Buttler 
+	Age: 29
+	Rating: 294
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Joseph Root 
+	Age: 29
+	Rating: 659
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Liam Dawson
+	Age: 30
+	Rating: 541
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Liam Edward Plunkett
+	Age: 34
+	Rating: 487
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Mark Wood
+	Age: 30
+	Rating: 443
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Moeen Ali
+	Age: 32
+	Rating: 326
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Saqib Mahmood
+	Age: 23
+	Rating: 802
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Thomas Banton
+	Age: 21
+	Rating: 445
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Tom Curran
+	Age: 25
+	Rating: 198
+	Position: Slip
+	-------------------------
+
+Country: France 
+Weight Matches: 1
+Point: 523
+Rating: 523
+	-------------------------
+	Name: Andy Walkden	
+	Age: 24
+	Rating: 528
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Arslan Khan
+	Age: 34
+	Rating: 434
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Arun Ayyavooraju	
+	Age: 33
+	Rating: 547
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Atif Zahir	
+	Age: 44
+	Rating: 642
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Chamara Rupaningal	
+	Age: 41
+	Rating: 480
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Chetan Chauhan
+	Age: 36
+	Rating: 736
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Deva Amirdalingame	
+	Age: 30
+	Rating: 331
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Donald Mariathas
+	Age: 29
+	Rating: 460
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Kismatullah Surate
+	Age: 28
+	Rating: 364
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Komalan Thavalingam
+	Age: 34
+	Rating: 633
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Lucien Calkin	
+	Age: 22
+	Rating: 212
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Praneeth Jangili
+	Age: 38
+	Rating: 434
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Robin Murphy	
+	Age: 28
+	Rating: 637
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Shabir Hussain
+	Age: 54
+	Rating: 741
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Shahid Malik
+	Age: 38
+	Rating: 548
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Tim de Leede
+	Age: 52
+	Rating: 654
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Usman Khan
+	Age: 29
+	Rating: 354
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Waseem Bhatti	
+	Age: 41
+	Rating: 540
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: William Singh	
+	Age: 31
+	Rating: 631
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Zafar Iqbal
+	Age: 36
+	Rating: 366
+	Position: Gully
+	-------------------------
+
+Country: India
+Weight Matches: 1
+Point: 461
+Rating: 461
+	-------------------------
+	Name: Bhuvneshwar Kumar Singh
+	Age: 30
+	Rating: 748
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Dinesh Karthik
+	Age: 34
+	Rating: 654
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Hardik Pandya
+	Age: 26
+	Rating: 700
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Ishant Sharma
+	Age: 31
+	Rating: 588
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Jasprit Bumrah
+	Age: 26
+	Rating: 368
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Kedar Mahadev Jadhav
+	Age: 35
+	Rating: 417
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: KL Rahul
+	Age: 27
+	Rating: 543
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Kuldeep Yadav
+	Age: 25
+	Rating: 453
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Mayank Agarwal
+	Age: 29
+	Rating: 455
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Mohammed Shami
+	Age: 29
+	Rating: 489
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: MS Dhoni
+	Age: 38
+	Rating: 439
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Prithvi Shaw
+	Age: 19
+	Rating: 349
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Ravindrasinh Jadeja
+	Age: 31
+	Rating: 268
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Rishabh Pant
+	Age: 22
+	Rating: 126
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Virat Kohli
+	Age: 31
+	Rating: 427
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Yuzvendra Chahal
+	Age: 29
+	Rating: 198
+	Position: Wicketkeeper
+	-------------------------
+
+Country: Ireland 
+Weight Matches: 0
+Point: 0
+Rating: 487
+	-------------------------
+	Name: Andrew Balbirnie	
+	Age: 29
+	Rating: 459
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Andy McBrine
+	Age: 26
+	Rating: 457
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Barry McCarthy
+	Age: 27
+	Rating: 451
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Boyd Rankin
+	Age: 35
+	Rating: 241
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Craig Young
+	Age: 30
+	Rating: 830
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: David Delany
+	Age: 22
+	Rating: 364
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Gareth Delany	
+	Age: 22
+	Rating: 655
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Gary Wilson	
+	Age: 34
+	Rating: 439
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: George Dockrell
+	Age: 27
+	Rating: 509
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Greg Thompson	
+	Age: 32
+	Rating: 247
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Harry Tector	
+	Age: 20
+	Rating: 154
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: James Cameron Dow
+	Age: 29
+	Rating: 549
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: James McCollum	
+	Age: 24
+	Rating: 364
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Joshua Little
+	Age: 20
+	Rating: 654
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Kevin OBrien
+	Age: 36
+	Rating: 436
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Lorcan Tucker	
+	Age: 23
+	Rating: 323
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Mark Adair	
+	Age: 24
+	Rating: 444
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Paul Stirling	
+	Age: 29
+	Rating: 257
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Peter Chase
+	Age: 26
+	Rating: 741
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Shane Getkate
+	Age: 28
+	Rating: 428
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Simi Singh
+	Age: 33
+	Rating: 733
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Stuart Thompson
+	Age: 28
+	Rating: 768
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Tyrone Kane
+	Age: 25
+	Rating: 749
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: William Porterfield	
+	Age: 35
+	Rating: 457
+	Position: Gully
+	-------------------------
+
+Country: Italy 
+Weight Matches: 0
+Point: 0
+Rating: 549
+	-------------------------
+	Name: Alessandro Bonora
+	Age: 41
+	Rating: 714
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Anam Mollik
+	Age: 30
+	Rating: 498
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Baljit Singh
+	Age: 29
+	Rating: 487
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Carl Sandri
+	Age: 36
+	Rating: 636
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Charanjeet Singh
+	Age: 26
+	Rating: 426
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Crishan Kalugamage
+	Age: 42
+	Rating: 651
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Damian Crowley
+	Age: 30
+	Rating: 459
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Fida Hussain
+	Age: 31
+	Rating: 368
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Gayashan Munasinghe
+	Age: 33
+	Rating: 698
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Gian-Piero Meade
+	Age: 24
+	Rating: 314
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Jaspreet Singh
+	Age: 35
+	Rating: 453
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Joy Perera
+	Age: 32
+	Rating: 751
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Madupa Fernando
+	Age: 28
+	Rating: 728
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Manpreet Singh
+	Age: 33
+	Rating: 237
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Michael Ross
+	Age: 32
+	Rating: 654
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Nicholos Maiolo
+	Age: 26
+	Rating: 741
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Peter Petricola
+	Age: 36
+	Rating: 751
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Rakibul Hasan
+	Age: 31
+	Rating: 654
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Supun Tharanga
+	Age: 34
+	Rating: 706
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Tharindu Fernando
+	Age: 32
+	Rating: 354
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Zahid Cheema
+	Age: 29
+	Rating: 257
+	Position: Mid-wicket
+	-------------------------
+
+Country: Japan 
+Weight Matches: 1
+Point: 397
+Rating: 397
+	-------------------------
+	Name: Ashley Thurgate
+	Age: 19
+	Rating: 720
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Debashish Sahoo
+	Age: 19
+	Rating: 205
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ishaan Fartyal
+	Age: 26
+	Rating: 269
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Kazumasa Takahashi
+	Age: 19
+	Rating: 460
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Kento Dobell
+	Age: 23
+	Rating: 364
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Leon Mehlig
+	Age: 19
+	Rating: 687
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Marcus Thurgate
+	Age: 19
+	Rating: 111
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Masato Morita
+	Age: 18
+	Rating: 467
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Max Clements
+	Age: 18
+	Rating: 351
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Neel Date
+	Age: 20
+	Rating: 470
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Reiji Suto
+	Age: 18
+	Rating: 360
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Shu Noguchi
+	Age: 20
+	Rating: 656
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Sora Ichiki
+	Age: 26
+	Rating: 165
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Tushar Chaturvedi
+	Age: 22
+	Rating: 465
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Yugandhar Retharekar
+	Age: 22
+	Rating: 364
+	Position: Point
+	-------------------------
+
+Country: Malaysia 
+Weight Matches: 0
+Point: 0
+Rating: 461
+	-------------------------
+	Name: Abdul Rashid
+	Age: 36
+	Rating: 411
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ahmed Faiz 
+	Age: 32
+	Rating: 257
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Ainool Haqqiem
+	Age: 22
+	Rating: 618
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Anwar Arudin
+	Age: 35
+	Rating: 318
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Anwar Rahman
+	Age: 23
+	Rating: 658
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Dhivendran Mogan
+	Age: 24
+	Rating: 123
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Muhamad Syahadat 
+	Age: 26
+	Rating: 421
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Pavandeep Singh
+	Age: 22
+	Rating: 422
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Saifullah Malik
+	Age: 29
+	Rating: 195
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Shafiq Sharif
+	Age: 30
+	Rating: 430
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Sharvin Muniandy
+	Age: 26
+	Rating: 654
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Suharril Fetri
+	Age: 30
+	Rating: 715
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Syazrul Idrus
+	Age: 30
+	Rating: 654
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Syed Aziz
+	Age: 21
+	Rating: 619
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Virandeep Singh
+	Age: 21
+	Rating: 421
+	Position: Point
+	-------------------------
+
+Country: Mexico 
+Weight Matches: 0
+Point: 0
+Rating: 507
+	-------------------------
+	Name: Ashwin Sathya
+	Age: 23
+	Rating: 711
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Buddhadeb Banerjee
+	Age: 22
+	Rating: 368
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Gaurav Dutta
+	Age: 32
+	Rating: 658
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Jagdeesh Umanath
+	Age: 38
+	Rating: 569
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Kaushal Kumar
+	Age: 30
+	Rating: 678
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Luis Hermida
+	Age: 22
+	Rating: 697
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Nithin Shetty
+	Age: 32
+	Rating: 654
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Pradeep Chandran
+	Age: 30
+	Rating: 385
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Puneet Arora
+	Age: 24
+	Rating: 485
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Rama Inampud
+	Age: 24
+	Rating: 367
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Revanakumar Ankad
+	Age: 22
+	Rating: 148
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Sanjay Zargar
+	Age: 40
+	Rating: 669
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Shahzad Muhammad
+	Age: 26
+	Rating: 459
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Shantanu Kaveri
+	Age: 26
+	Rating: 451
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Shashikant Hirugade
+	Age: 30
+	Rating: 358
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Tarun Sharma
+	Age: 26
+	Rating: 457
+	Position: Mid-off
+	-------------------------
+
+Country: New Zealand
+Weight Matches: 0
+Point: 0
+Rating: 476
+	-------------------------
+	Name: Ajaz Patel
+	Age: 31
+	Rating: 425
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Blair Tickner
+	Age: 26
+	Rating: 789
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Bradley John Watling
+	Age: 34
+	Rating: 344
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Colin de Grandhomme
+	Age: 33
+	Rating: 457
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Colin Munro
+	Age: 33
+	Rating: 458
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Daryl Mitchell
+	Age: 28
+	Rating: 471
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Glenn Phillips
+	Age: 23
+	Rating: 436
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Hamish Bennett
+	Age: 33
+	Rating: 477
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Henry Nicholls
+	Age: 28
+	Rating: 257
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ish Sodhi
+	Age: 27
+	Rating: 806
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: James Neesham
+	Age: 29
+	Rating: 699
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Jeet Raval
+	Age: 31
+	Rating: 487
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Kane Williamson
+	Age: 29
+	Rating: 455
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Kyle Jamieson
+	Age: 25
+	Rating: 711
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Lachlan Ferguson
+	Age: 28
+	Rating: 641
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Mark Chapman
+	Age: 25
+	Rating: 189
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Martin Guptill
+	Age: 33
+	Rating: 157
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Matt Henry
+	Age: 28
+	Rating: 614
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Mitchell Santner
+	Age: 28
+	Rating: 411
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Neil Wagner
+	Age: 34
+	Rating: 517
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Ross Taylor
+	Age: 36
+	Rating: 364
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Scott Kuggeleijn
+	Age: 28
+	Rating: 644
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Tim Seifert
+	Age: 25
+	Rating: 425
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Tim Southee
+	Age: 31
+	Rating: 154
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Todd Astle
+	Age: 33
+	Rating: 451
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Tom Blundell
+	Age: 29
+	Rating: 324
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Tom Bruce
+	Age: 28
+	Rating: 325
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Tom Latham
+	Age: 28
+	Rating: 556
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Trent Boult
+	Age: 30
+	Rating: 611
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: William Somerville
+	Age: 35
+	Rating: 644
+	Position: Fine leg
+	-------------------------
+
+Country: Oman
+Weight Matches: 0
+Point: 0
+Rating: 550
+	-------------------------
+	Name: Aqib Ilyas
+	Age: 27
+	Rating: 325
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Badal Singh
+	Age: 32
+	Rating: 714
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Bilal Khan
+	Age: 31
+	Rating: 805
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Fayyaz Butt
+	Age: 26
+	Rating: 532
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Jatinder Singh
+	Age: 31
+	Rating: 413
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Jay Odedra
+	Age: 30
+	Rating: 333
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Kaleemullah
+	Age: 29
+	Rating: 589
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Khawar Ali 
+	Age: 34
+	Rating: 574
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Khurram Nawaz
+	Age: 34
+	Rating: 522
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Mohammad Nadeem
+	Age: 37
+	Rating: 494
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Moonamchery Michal
+	Age: 36
+	Rating: 636
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Sandeep Goud
+	Age: 28
+	Rating: 432
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Sufyan Mehmood
+	Age: 28
+	Rating: 715
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Suraj Kumar
+	Age: 31
+	Rating: 584
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Zeeshan Maqsood 
+	Age: 32
+	Rating: 594
+	Position: Cover
+	-------------------------
+
+Country: Pakistan
+Weight Matches: 0
+Point: 0
+Rating: 499
+	-------------------------
+	Name: Abid Ali
+	Age: 32
+	Rating: 532
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Asad Shafiq
+	Age: 34
+	Rating: 467
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Asif Ali
+	Age: 28
+	Rating: 718
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Azhar Ali
+	Age: 35
+	Rating: 777
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Babar Azam
+	Age: 25
+	Rating: 469
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Bilal Asif
+	Age: 34
+	Rating: 446
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Faheem Ashraf
+	Age: 26
+	Rating: 778
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Fakhar Zaman
+	Age: 29
+	Rating: 355
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Fawad Alam
+	Age: 34
+	Rating: 598
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Haris Sohail
+	Age: 31
+	Rating: 547
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Hasan Ali
+	Age: 26
+	Rating: 541
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Hussain Talat
+	Age: 24
+	Rating: 532
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Iftikhar Ahmed
+	Age: 29
+	Rating: 441
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Imad Wasim
+	Age: 31
+	Rating: 556
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Imam Haq
+	Age: 24
+	Rating: 587
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Imran Khan
+	Age: 32
+	Rating: 541
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Junaid Khan
+	Age: 30
+	Rating: 652
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Kashif Bhatti
+	Age: 33
+	Rating: 433
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Khushdil Shah
+	Age: 25
+	Rating: 541
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Mohammad Abbas
+	Age: 30
+	Rating: 664
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Mohammad Amir
+	Age: 27
+	Rating: 417
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Mohammad Hafeez
+	Age: 26
+	Rating: 455
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Mohammad Hasnain
+	Age: 19
+	Rating: 184
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Mohammad Irfan
+	Age: 37
+	Rating: 801
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Mohammad Nawaz
+	Age: 26
+	Rating: 844
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Mohammad Rizwan
+	Age: 27
+	Rating: 113
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Musa Khan
+	Age: 19
+	Rating: 169
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Naseem Shah
+	Age: 17
+	Rating: 177
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Rahat Ali
+	Age: 31
+	Rating: 574
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Rumman Raees
+	Age: 28
+	Rating: 417
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Sarfaraz Ahmed
+	Age: 32
+	Rating: 412
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Shadab Khan
+	Age: 21
+	Rating: 547
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Shaheen Shah Afridi
+	Age: 19
+	Rating: 180
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Shan Masood
+	Age: 30
+	Rating: 365
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Shoaib Malik
+	Age: 38
+	Rating: 641
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Umar Akmal
+	Age: 29
+	Rating: 411
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Usman Qadir
+	Age: 26
+	Rating: 771
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Usman Shinwari
+	Age: 25
+	Rating: 314
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Wahab Riaz
+	Age: 34
+	Rating: 641
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Yasir Shah
+	Age: 33
+	Rating: 369
+	Position: Mid-off
+	-------------------------
+
+Country: Romania
+Weight Matches: 2
+Point: 896
+Rating: 448
+	-------------------------
+	Name: Abdul Shakoor
+	Age: 26
+	Rating: 254
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Cosmin Zavoiu
+	Age: 30
+	Rating: 541
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Dharmendra Manani
+	Age: 26
+	Rating: 474
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Gohar Manan
+	Age: 32
+	Rating: 325
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Ijaz Hussain
+	Age: 41
+	Rating: 548
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Imran Haider
+	Age: 25
+	Rating: 347
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Laurentiu Gherasim
+	Age: 24
+	Rating: 174
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Pavel Florin
+	Age: 31
+	Rating: 541
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Peter Danci
+	Age: 30
+	Rating: 428
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Rajendra Pisal
+	Age: 22
+	Rating: 358
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Rajesh Kumar
+	Age: 31
+	Rating: 547
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Ramesh Satheesan
+	Age: 26
+	Rating: 486
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Sadeeq Khan
+	Age: 30
+	Rating: 658
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Satwik Nadigotla
+	Age: 29
+	Rating: 654
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Shantanu Vashisht
+	Age: 32
+	Rating: 699
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Sivakumar Periyalwar
+	Age: 26
+	Rating: 456
+	Position: Wicketkeeper
+	-------------------------
+
+Country: Scotland
+Weight Matches: 0
+Point: 0
+Rating: 558
+	-------------------------
+	Name: Adrian Neill
+	Age: 26
+	Rating: 441
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Alasdair Evans
+	Age: 31
+	Rating: 431
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Brad Wheal
+	Age: 25
+	Rating: 664
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Calum MacLeod
+	Age: 31
+	Rating: 254
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Craig Wallace
+	Age: 29
+	Rating: 418
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Dylan Budge
+	Age: 24
+	Rating: 487
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Gavin Main
+	Age: 25
+	Rating: 714
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: George Munsey
+	Age: 27
+	Rating: 812
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Hamza Tahir
+	Age: 24
+	Rating: 805
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Josh Davey
+	Age: 29
+	Rating: 364
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Kyle Coetzer
+	Age: 35
+	Rating: 477
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Mark Watt
+	Age: 23
+	Rating: 667
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Matthew Cross
+	Age: 27
+	Rating: 836
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Michael Jones
+	Age: 22
+	Rating: 571
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Michael Leask
+	Age: 29
+	Rating: 589
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Ollie Hairs
+	Age: 28
+	Rating: 654
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Richie Berrington
+	Age: 32
+	Rating: 651
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Ruaidhri Smith
+	Age: 25
+	Rating: 664
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Safyaan Sharif
+	Age: 28
+	Rating: 554
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Stuart Whittingham
+	Age: 26
+	Rating: 447
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Tom Sole
+	Age: 23
+	Rating: 225
+	Position: Wicketkeeper
+	-------------------------
+
+Country: Singapore
+Weight Matches: 0
+Point: 0
+Rating: 534
+	-------------------------
+	Name: Aahan Gopinath Achar
+	Age: 21
+	Rating: 764
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Amjad Mahboob
+	Age: 39
+	Rating: 745
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Anantha Krishna
+	Age: 29
+	Rating: 447
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Anish Paraam
+	Age: 29
+	Rating: 720
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Aritra Dutta
+	Age: 28
+	Rating: 465
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Arjun Mutreja
+	Age: 21
+	Rating: 125
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Aryaman Sunil
+	Age: 19
+	Rating: 447
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Avi Dixit
+	Age: 20
+	Rating: 469
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Chetan Suryawanshi
+	Age: 35
+	Rating: 802
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Janak Prakash
+	Age: 19
+	Rating: 488
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Manpreet Singh
+	Age: 25
+	Rating: 347
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Navin Param
+	Age: 24
+	Rating: 364
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Rezza Gaznavi
+	Age: 27
+	Rating: 798
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Rohan Rangarajan
+	Age: 20
+	Rating: 311
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Selladore Vijayakumar
+	Age: 40
+	Rating: 744
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Sidhant Singh
+	Age: 20
+	Rating: 621
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Surendran Chandramohan
+	Age: 31
+	Rating: 567
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Tim David
+	Age: 24
+	Rating: 364
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Vinoth Baskaran
+	Age: 29
+	Rating: 564
+	Position: Mid-off
+	-------------------------
+
+Country: Slovenia
+Weight Matches: 0
+Point: 0
+Rating: 461
+	-------------------------
+	Name: Brad Eve
+	Age: 33
+	Rating: 472
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Damir Alidzanovic
+	Age: 30
+	Rating: 579
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Domen Bohinc
+	Age: 25
+	Rating: 369
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Egon Jakofcic
+	Age: 34
+	Rating: 657
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Grega Bohinc
+	Age: 24
+	Rating: 465
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Lalantha Karunatilake
+	Age: 27
+	Rating: 445
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Mark Oman 
+	Age: 26
+	Rating: 681
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Nejc Zupan
+	Age: 26
+	Rating: 448
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Robert Crawford
+	Age: 26
+	Rating: 465
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Rok Bohinc
+	Age: 35
+	Rating: 169
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Simon Kaucic
+	Age: 36
+	Rating: 725
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Slavo Teinovic 
+	Age: 35
+	Rating: 517
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Tom Furness 
+	Age: 32
+	Rating: 321
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Urban Blaznik
+	Age: 32
+	Rating: 146
+	Position: Mid-off
+	-------------------------
+
+Country: South Korea
+Weight Matches: 0
+Point: 0
+Rating: 472
+	-------------------------
+	Name: Hongki Kim
+	Age: 20
+	Rating: 548
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Hwanhee Lee 
+	Age: 19
+	Rating: 441
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Hyobum An
+	Age: 35
+	Rating: 658
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Ilhwan Seo 
+	Age: 32
+	Rating: 682
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Inho Cha
+	Age: 25
+	Rating: 548
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Jiwon Choi 
+	Age: 36
+	Rating: 654
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Kim Kyungsik
+	Age: 36
+	Rating: 148
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Namheon Kim
+	Age: 19
+	Rating: 574
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Park Tae Kwan
+	Age: 26
+	Rating: 389
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Sangwook Lee
+	Age: 26
+	Rating: 157
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Soochan Park 
+	Age: 23
+	Rating: 366
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Suin Bang
+	Age: 23
+	Rating: 541
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Sung Dae Sik 
+	Age: 24
+	Rating: 489
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Sunghoon Cho
+	Age: 26
+	Rating: 472
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Youmin Jung
+	Age: 32
+	Rating: 418
+	Position: Wicketkeeper
+	-------------------------
+
+Country: Spain
+Weight Matches: 0
+Point: 0
+Rating: 544
+	-------------------------
+	Name: Atif Mehmood
+	Age: 26
+	Rating: 457
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Awais Ahmed
+	Age: 32
+	Rating: 471
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Christian Mills
+	Age: 22
+	Rating: 471
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Faran Afzal
+	Age: 26
+	Rating: 571
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Hamza Dar
+	Age: 26
+	Rating: 654
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Kuldeep Lal
+	Age: 35
+	Rating: 642
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Muhammad Asjed
+	Age: 25
+	Rating: 142
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Paul Hennessy
+	Age: 34
+	Rating: 654
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Ravi Panchal
+	Age: 26
+	Rating: 456
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Tom Vine
+	Age: 30
+	Rating: 621
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Vinod Kumar
+	Age: 28
+	Rating: 642
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Yasir Ali
+	Age: 33
+	Rating: 654
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Zulqarnain Haider
+	Age: 33
+	Rating: 642
+	Position: Mid-wicket
+	-------------------------
+
+Country: Thailand
+Weight Matches: 0
+Point: 0
+Rating: 423
+	-------------------------
+	Name: Chanchai Pengkumta
+	Age: 22
+	Rating: 642
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Daniel Frederik
+	Age: 37
+	Rating: 458
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Henno Jordaan
+	Age: 31
+	Rating: 124
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Ismail Sardar
+	Age: 50
+	Rating: 457
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Kamron Senamontree
+	Age: 20
+	Rating: 572
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Mahsid Faheem
+	Age: 27
+	Rating: 256
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Naveed Pathan
+	Age: 37
+	Rating: 645
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Nopphon Senamontree
+	Age: 28
+	Rating: 541
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Phiriyapong Suanchuai
+	Age: 17
+	Rating: 127
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Robert Raina
+	Age: 35
+	Rating: 457
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Sorawat Desungnoen
+	Age: 17
+	Rating: 572
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Vichanath Singh
+	Age: 28
+	Rating: 469
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Wanchana Uisuk
+	Age: 28
+	Rating: 354
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Ziaul Hoque
+	Age: 33
+	Rating: 257
+	Position: Slip
+	-------------------------
+
+Country: Turkey
+Weight Matches: 0
+Point: 0
+Rating: 442
+	-------------------------
+	Name: Ahmet Dursak
+	Age: 26
+	Rating: 654
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Ali Kose
+	Age: 28
+	Rating: 641
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Ali Turkmen
+	Age: 36
+	Rating: 644
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Cengiz Akyuz
+	Age: 25
+	Rating: 452
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Hasan Alta
+	Age: 30
+	Rating: 804
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Hasan Helva
+	Age: 36
+	Rating: 125
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Ishak Elec
+	Age: 32
+	Rating: 542
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Ismet Turkmen
+	Age: 30
+	Rating: 441
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Mecit Ozturk
+	Age: 26
+	Rating: 201
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Mehmet Koc
+	Age: 26
+	Rating: 264
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Mehmst Sert
+	Age: 22
+	Rating: 456
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Osman Goker
+	Age: 35
+	Rating: 254
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Recep Ulutuna
+	Age: 29
+	Rating: 369
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Serdar Kansoy
+	Age: 27
+	Rating: 541
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Serkan Kizilkaya
+	Age: 28
+	Rating: 342
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Tunahan Turan
+	Age: 26
+	Rating: 499
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Tunahan Ulutuna
+	Age: 26
+	Rating: 289
+	Position: Mid-wicket
+	-------------------------
+
+Country: USA
+Weight Matches: 0
+Point: 0
+Rating: 655
+	-------------------------
+	Name: Aaron Jones
+	Age: 25
+	Rating: 836
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Elmore Hutchinson
+	Age: 37
+	Rating: 782
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Hayden Walsh
+	Age: 27
+	Rating: 456
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Jasdeep Singh
+	Age: 27
+	Rating: 599
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Jaskaran Malhotra
+	Age: 30
+	Rating: 209
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Karima Gore
+	Age: 21
+	Rating: 698
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Monank Patel
+	Age: 26
+	Rating: 755
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Nisarg Patel
+	Age: 31
+	Rating: 788
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Nosthush Kenjige
+	Age: 29
+	Rating: 782
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Rusty Theron
+	Age: 34
+	Rating: 783
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Sagar Patel
+	Age: 22
+	Rating: 654
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Saurabh Netravalkar
+	Age: 28
+	Rating: 741
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Steven Taylor
+	Age: 26
+	Rating: 254
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Timil Patel
+	Age: 36
+	Rating: 836
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Xavier Marshall
+	Age: 34
+	Rating: 654
+	Position: Fine leg
+	-------------------------
+
+Country: West Indies
+Weight Matches: 0
+Point: 0
+Rating: 496
+	-------------------------
+	Name: Alzarri Joseph
+	Age: 23
+	Rating: 451
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Andre Russell
+	Age: 31
+	Rating: 697
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Ashley Nurse
+	Age: 31
+	Rating: 598
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Brandon King
+	Age: 25
+	Rating: 456
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Carlos Brathwaite
+	Age: 31
+	Rating: 456
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Chris Gayle
+	Age: 40
+	Rating: 285
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Darren Bravo
+	Age: 31
+	Rating: 820
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Denesh Ramdin
+	Age: 35
+	Rating: 478
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Dwayne Bravo
+	Age: 36
+	Rating: 268
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Evin Lewis
+	Age: 28
+	Rating: 365
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Fabian Allen
+	Age: 24
+	Rating: 612
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Hayden Walsh Jr
+	Age: 27
+	Rating: 593
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Jahmar Hamilton
+	Age: 29
+	Rating: 486
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Jason Holder
+	Age: 28
+	Rating: 258
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: John Campbell
+	Age: 26
+	Rating: 654
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Jomel Warrican
+	Age: 27
+	Rating: 489
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Keemo Paul
+	Age: 22
+	Rating: 458
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Kemar Roach
+	Age: 31
+	Rating: 569
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Kesrick Williams
+	Age: 30
+	Rating: 589
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Khary Pierre
+	Age: 28
+	Rating: 478
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Kieron Pollard
+	Age: 32
+	Rating: 423
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Kraigg Brathwaite
+	Age: 27
+	Rating: 756
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Lendl Simmons
+	Age: 35
+	Rating: 174
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Nicholas Pooran	
+	Age: 24
+	Rating: 285
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Oshane Thomas
+	Age: 23
+	Rating: 458
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Rahkeem Cornwall
+	Age: 27
+	Rating: 569
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Romario Shepherd
+	Age: 25
+	Rating: 486
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Roston Chase
+	Age: 28
+	Rating: 654
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Rovman Powell
+	Age: 26
+	Rating: 489
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Shai Hope
+	Age: 26
+	Rating: 369
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Shamarh Brooks
+	Age: 31
+	Rating: 599
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Shane Dowrich
+	Age: 28
+	Rating: 546
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Shannon Gabriel
+	Age: 31
+	Rating: 451
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Sheldon Cottrell
+	Age: 30
+	Rating: 548
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Sherfane Rutherford
+	Age: 21
+	Rating: 586
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Shimron Hetmyer
+	Age: 23
+	Rating: 459
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Sunil Ambris
+	Age: 27
+	Rating: 459
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Sunil Narine
+	Age: 31
+	Rating: 488
+	Position: Cover
+	-------------------------
+
+Country: Zambia
+Weight Matches: 0
+Point: 0
+Rating: 466
+	-------------------------
+	Name: Aubrey Dennis 
+	Age: 26
+	Rating: 269
+	Position: Cover
+	-------------------------
+	-------------------------
+	Name: Bernard Horton
+	Age: 35
+	Rating: 465
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Bimal Soni
+	Age: 40
+	Rating: 755
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: CD Patel
+	Age: 36
+	Rating: 805
+	Position: Mid-wicket
+	-------------------------
+	-------------------------
+	Name: Chris English
+	Age: 29
+	Rating: 368
+	Position: Mid-off
+	-------------------------
+	-------------------------
+	Name: Derek Bruorton
+	Age: 32
+	Rating: 154
+	Position: Point
+	-------------------------
+	-------------------------
+	Name: Hamish McLeod
+	Age: 29
+	Rating: 465
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Jackie Ward
+	Age: 30
+	Rating: 499
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Keith Arnold
+	Age: 30
+	Rating: 158
+	Position: Gully
+	-------------------------
+	-------------------------
+	Name: Majid Pandor
+	Age: 33
+	Rating: 574
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Michael Lee
+	Age: 26
+	Rating: 358
+	Position: Fine leg
+	-------------------------
+	-------------------------
+	Name: Parbhu Nana
+	Age: 23
+	Rating: 257
+	Position: Wicketkeeper
+	-------------------------
+	-------------------------
+	Name: Peter Stimpson
+	Age: 32
+	Rating: 569
+	Position: Third man
+	-------------------------
+	-------------------------
+	Name: Roger Henderson
+	Age: 32
+	Rating: 458
+	Position: Bowler
+	-------------------------
+	-------------------------
+	Name: Wally Hitzeroth
+	Age: 33
+	Rating: 698
+	Position: Mid-on
+	-------------------------
+	-------------------------
+	Name: Yunus Badat
+	Age: 26
+	Rating: 589
+	Position: Slip
+	-------------------------
+	-------------------------
+	Name: Yusuf Patel
+	Age: 26
+	Rating: 489
+	Position: Mid-on
+	-------------------------
+
