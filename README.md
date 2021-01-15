@@ -1,4 +1,3 @@
 # OOP-project
-Java OOP Project
-
-Cricket Game
+Java Project
+# Cricket Game
